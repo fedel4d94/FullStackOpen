@@ -1,0 +1,10 @@
+git init
+# aca debería crear el template de react -- npm create vite@latest nombre --template react
+git add .
+git commit -m "arrancanding"
+
+git checkout -b nombre-de-la-rama #crea y cambia a esa rama.
+
+git branch -M master # Cambiar el nombre de la rama principal a "master" (opcional)
+git remote add origin https://github.com/usuario/nombre-repo.git
+git push -u origin main El comando -u establece origin/main como el remoto predeterminado para futuros git push.

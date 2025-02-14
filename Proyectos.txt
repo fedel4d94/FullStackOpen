@@ -1,0 +1,6 @@
+5 Proyectos:
+1.-Landing Page (Fundamentos básicos: barra de navegación, sección de héroe , pie de página).
+2.-Aplicación del tiempo (Utilizando una API).
+3.-Shopping List Application. (Fundamentos para Ecommerce)
+4.-Aplicaciones de Películas
+5.-Blog Website (Gatsby o NetJS)

@@ -1,0 +1,8 @@
+padding (relleno), el espacio alrededor del contenido. En el ejemplo siguiente, es el espacio alrededor del texto del párrafo.
+border (marco), la línea que se encuentra fuera del relleno.
+margin (margen), el espacio fuera del elemento que lo separa de los demás.
+width (ancho del elemento)
+background-color, el color de fondo del contenido y del relleno
+color, el color del contenido del elemento (generalmente texto)
+text-shadow: coloca una sombra difuminada en el texto dentro del elemento
+display: selecciona el modo de visualización para el elemento (no te preocupes de esto por ahora)
