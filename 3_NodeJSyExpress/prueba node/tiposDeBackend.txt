@@ -1,0 +1,10 @@
+🔹 JavaScript/TypeScript → Usa Node.js, Deno o Bun para correr código del lado del servidor.
+🔹 Python → Usa frameworks como Django, Flask o FastAPI para crear APIs y servidores.
+🔹 Java → Usa Spring Boot para aplicaciones robustas en empresas.
+🔹 C# → Usa ASP.NET Core para aplicaciones empresariales en entornos Microsoft.
+🔹 Go → Usa Gin o Fiber para un backend súper rápido.
+🔹 PHP → Usa Laravel o Symfony para desarrollo web tradicional.
+🔹 Ruby → Usa Ruby on Rails para un desarrollo rápido y productivo.
+🔹 Rust → Usa Axum o Rocket si buscas máxima seguridad y rendimiento.
+
+📌 Conclusión: No hay un único backend "correcto", sino que depende del lenguaje y del tipo de proyecto.

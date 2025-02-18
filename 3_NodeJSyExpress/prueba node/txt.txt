@@ -1,0 +1,10 @@
+Podemos ejecutar el programa directamente con Node desde la línea de comando:
+
+node index.js
+O podemos ejecutarlo como un script npm:
+
+npm start
+El script npm start funciona porque lo definimos en el archivo package.json:
+
+Instalemos nodemon definiéndolo como una dependencia de desarrollo con el comando:
+npm install --save-dev nodemon

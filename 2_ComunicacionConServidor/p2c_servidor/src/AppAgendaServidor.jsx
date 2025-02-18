@@ -23,7 +23,7 @@ const App = () => {
     const [errorMessage, setErrorMessage] = useState({ message: null, type: null })
 
     useEffect(() => {
-        console.log('useEffect');
+        console.log('useEffect get all');
         personaService.getAll()
             .then(initialPersons => { setPersons(initialPersons) })
     }, []);
@@ -82,6 +82,7 @@ const App = () => {
                 name: newPerson.name,
                 number: newPerson.number
             };
+            console.log(personObject)
             personaService.create(personObject)
                 .then(returnedPerson => { setPersons(persons.concat(returnedPerson)) })
             setNewPerson(initialState)
